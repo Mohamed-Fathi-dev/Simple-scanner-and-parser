@@ -40,6 +40,10 @@ fun getNextToken():String{
     }
 }
 
+fun newFunction(){
+   println("new Function");
+}
+
 fun AddedFunction(){
    println("Added Function");   
 }
